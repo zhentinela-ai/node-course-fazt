@@ -6,5 +6,24 @@
     "lodash": "^4.17.21",
     "nodemon": "^2.0.20"
   },
-  "scripts": {}
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "type": "module",
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhentinela-ai/node-course-fazt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhentinela-ai/node-course-fazt/issues"
+  },
+  "homepage": "https://github.com/zhentinela-ai/node-course-fazt#readme",
+  "description": ""
 }
